@@ -27,6 +27,5 @@ class WishesController < ApplicationController
     end
 
     def show
-
     end
 end
